@@ -24,7 +24,7 @@ At my free time I train my dog and like to spend time in nature. I am a keen pho
 
 ### PROJECTS<br>
 ------
-[<b>Ravelry</b>](https://github.com/MariaHiltunen/Dataportfolio/tree/main/Project%20Ravelry)<br>
+[<b>RAVELRY</b>](https://github.com/MariaHiltunen/Dataportfolio/tree/main/Project%20Ravelry)<br>
 Overview of Ravelry's patterns & instructions, yarns & fiber and needles & hooks.<br>
 Data has been retrieved from Ravelry's API with Python.<br>
 Visualization in Tableau (in progress): [Some stuff you can find on Ravelry](https://public.tableau.com/app/profile/maria.hiltunen/viz/SomestuffyoucanfindonRavelry/Dashboard1) <br>
