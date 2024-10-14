@@ -14,7 +14,8 @@
 #### [RAVELRY](https://github.com/MariaHiltunen/Dataportfolio/tree/main/Project%20Ravelry)<br>
 Overview of Ravelry's patterns & instructions, yarns & fiber and needles & hooks.<br>
 Data has been retrieved from Ravelry's API with Python.<br>
-Visualization in Tableau (in progress): [Some stuff you can find on Ravelry](https://public.tableau.com/app/profile/maria.hiltunen/viz/SomestuffyoucanfindonRavelry/Dashboard1) <br>
+Visualization in Tableau (in progress): [Some stuff you can find on Ravelry](https://public.tableau.com/app/profile/maria.hiltunen/viz/SomestuffyoucanfindonRavelry/Dashboard1) 
+![Ravelry data visualization with Tableau](https://github.com/MariaHiltunen/Dataportfolio/blob/main/Project%20Ravelry/Ravelry%20visualization.png?raw=true)<br>
 <br>
 
 #### [TITANIC](https://github.com/MariaHiltunen/Dataportfolio/blob/main/Titanic.ipynb)<br>
