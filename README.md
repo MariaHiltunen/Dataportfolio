@@ -3,6 +3,7 @@
 - [Projects](#projects)
   - [Ravelry](#ravelry)
   - [Titanic](#titanic)
+  - [Suomalaiset neulojat](#suomalaiset-neulojat)
 - [Education](#education)
 - [Certificates](#certificates)
 - [Contact](#contact)<br>
